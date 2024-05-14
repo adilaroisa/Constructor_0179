@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PemdasStaticMemberFunctionConstructorChainThis.cpp">
+    <ClCompile Include="ChainFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

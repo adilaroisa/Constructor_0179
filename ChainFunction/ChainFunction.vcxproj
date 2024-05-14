@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{faabf57c-08e1-485f-8816-bbd957ac4d4e}</ProjectGuid>
-    <RootNamespace>PemdasStaticMemberFunctionConstructorChain</RootNamespace>
+    <ProjectGuid>{861a8c8f-214a-48d9-877f-30627dd5086d}</ProjectGuid>
+    <RootNamespace>ChainFunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>PemdasStaticMemberFunctionConstructorChainThis</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PemdasStaticMemberFunctionConstructorChainThis.cpp" />
+    <ClCompile Include="ChainFunction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
